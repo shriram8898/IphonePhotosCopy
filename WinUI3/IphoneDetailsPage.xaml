@@ -47,11 +47,11 @@
                 Minimum="0"
                 Value="0" />
             <TextBlock
-                x:Name="FilsInfoTb"
+                x:Name="FilesInfoTb"
                 Grid.Row="2"
                 Margin="20,0" />
             <ProgressBar
-                x:Name="FilsProgressBar"
+                x:Name="FilesProgressBar"
                 Grid.Row="3"
                 Width="300"
                 Height="80"

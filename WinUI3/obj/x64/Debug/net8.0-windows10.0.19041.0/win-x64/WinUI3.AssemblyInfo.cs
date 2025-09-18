@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinUI3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3721babfa206603e8d0170393c961f851d4c1dd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinUI3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinUI3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

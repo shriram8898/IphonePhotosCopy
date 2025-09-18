@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\WinUI3\\WinUI3\\WinUI3.csproj": {}
+    "D:\\Downloads\\IphonePhotosCopy\\WinUI3\\WinUI3.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\WinUI3\\WinUI3\\WinUI3.csproj": {
+    "D:\\Downloads\\IphonePhotosCopy\\WinUI3\\WinUI3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\WinUI3\\WinUI3\\WinUI3.csproj",
+        "projectUniqueName": "D:\\Downloads\\IphonePhotosCopy\\WinUI3\\WinUI3.csproj",
         "projectName": "WinUI3",
-        "projectPath": "D:\\Downloads\\WinUI3\\WinUI3\\WinUI3.csproj",
+        "projectPath": "D:\\Downloads\\IphonePhotosCopy\\WinUI3\\WinUI3.csproj",
         "packagesPath": "D:\\NUGET\\GLOBAL_PACKAGES",
-        "outputPath": "D:\\Downloads\\WinUI3\\WinUI3\\obj\\",
+        "outputPath": "D:\\Downloads\\IphonePhotosCopy\\WinUI3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

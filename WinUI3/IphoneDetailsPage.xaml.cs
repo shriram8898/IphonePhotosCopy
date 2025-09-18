@@ -176,8 +176,8 @@ public sealed partial class IphoneDetailsPage : UserControl
     {
         this.DispatcherQueue.TryEnqueue(() =>
         {
-            FoldersInfoTb.Text = $"{i}/{length} folders processing";
-            FoldersProgressBar.Value = ((double)i / (double)length) * 100;
+            FilesInfoTb.Text = $"{i}/{length} files processing";
+            FilesProgressBar.Value = ((double)i / (double)length) * 100;
         });
 
     }
